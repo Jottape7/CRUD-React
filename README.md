@@ -6,6 +6,7 @@ Sistema desenvolvido em React.js para cadastro, edição, listagem e exclusão d
 - React.js
 - JavaScript
 - CSS
+- Vite
 
 ## Funcionalidades
 - Cadastro de produtos
@@ -14,10 +15,10 @@ Sistema desenvolvido em React.js para cadastro, edição, listagem e exclusão d
 - Exclusão de produtos
 
 ## Como executar
-npm install
+cd crud
 npm run dev
 
 ## Desenvolvido por:
-Henrique Soares Oliveira,
-João Pedro Rios de Carvalho e 
-Vítor Ferreira Fernandes
+ Henrique Soares Oliveira,
+ João Pedro Rios de Carvalho e 
+ Vítor Ferreira Fernandes

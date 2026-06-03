@@ -17,6 +17,7 @@ Sistema desenvolvido em React.js para cadastro, edição, listagem e exclusão d
 npm install
 npm run dev
 
-Desenvolvido por:
-Henrique Soares Oliveira
-Joao Pedro 
+## Desenvolvido por:
+## Henrique Soares Oliveira
+## João Pedro Rios de Carvalho
+## Vítor Ferreira Fernandes

@@ -18,6 +18,6 @@ npm install
 npm run dev
 
 ## Desenvolvido por:
-Henrique Soares Oliveira
-João Pedro Rios de Carvalho
+Henrique Soares Oliveira,
+João Pedro Rios de Carvalho e 
 Vítor Ferreira Fernandes

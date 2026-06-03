@@ -15,10 +15,9 @@ Sistema desenvolvido em React.js para cadastro, edição, listagem e exclusão d
 - Exclusão de produtos
 
 ## Como executar
-cd crud
-npm run dev
+npm run dev, abra o endereço informado pelo Vite no navegador.
 
 ## Desenvolvido por:
- Henrique Soares Oliveira,
- João Pedro Rios de Carvalho e 
- Vítor Ferreira Fernandes
+Henrique Soares Oliveira,
+João Pedro Rios de Carvalho e 
+Vítor Ferreira Fernandes
